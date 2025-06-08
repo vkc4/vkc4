@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Kumar Choudhary</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkc4&label=Profile%20views&color=0e75b6&style=flat" alt="vkc4" /> </p>
 
@@ -7,13 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Chronic**kidney**disease**
-
-- 🌱 I’m currently learning **SpringBoot**
-
 - 👯 I’m looking to collaborate on [DevServe](www.deveserveinfo.in)
 
-- 💬 Ask me about **Java,DSA,React.js,SQL,Web Development**
+- 💬 Ask me about **Java,python,React.js,SQL,Web Development ,Devops**
 
 - 📫 How to reach me **vaibhavkumar81990@gmail.com**
 
